@@ -4,7 +4,7 @@ It is a simple calculator converting PLN to various currencies (GBP, USD, EUR, C
 
 ## Demo
 
-https://miczeq.github.io/Currency-Converter/
+https://miczeq.github.io/Currency-converter/
 
 ![Zrzut ekranu](show.gif)
 
